@@ -1,8 +1,7 @@
 
 - The network is available in basic_model.py
 
-- I have converted the RGB images in the dataset into CIELAB colorspace (available in colorize_data.py file) for training and validation because 
-- it allows the intensity and the light filled in the grayscale image to be taken into consideration 
+- I have converted the RGB images in the dataset into CIELAB colorspace (available in colorize_data.py file) for training and validation, as it allows the intensity and the light filled in the grayscale image to be taken into consideration 
 in the form of ‘L’, by adding this conversion part to the ‘colorize_data’ script and thus, solves the problem of adjusting the mood as well.
 
 ## Train 
