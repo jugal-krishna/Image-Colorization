@@ -7,6 +7,7 @@ in the form of ‘L’, by adding this conversion part to the ‘colorize_data�
 ## Train 
 - The training and validation code is in main.py. The input dataset is given in the Dataloaders section at the variable 
 'dataset'.
+- Download the dataset here: https://drive.google.com/file/d/15jprd8VTdtIQeEtQj6wbRx6seM8j0Rx5/view?usp=sharing 
 
 ## Inference
 - The path of the testing dataset and the index (number) of the input gray scale image should be given as inputs to the
